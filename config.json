@@ -3,15 +3,9 @@
   "site_title": "Wynterfield Community Site",
   "site_description": "The Community Run Website For The Wynterfield",
   "site_keywords": [
-    {
-      "keyword": "Next.js"
-    },
-    {
-      "keyword": "Netlify"
-    },
-    {
-      "keyword": "React"
-    }
+    "Wynterfield",
+    "Wynterfield HOA",
+    "Wynterfield Community"
   ],
   "posts_per_page": 5
 }
